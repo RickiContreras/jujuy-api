@@ -37,7 +37,7 @@ Postman
 
 ⚙️ Configuración del Proyecto
 1️⃣ Clonar el Repositorio
-git clone https://github.com/tuusuario/aiej-api.git
+git clone https://github.com/RickiContreras/jujuy-api.git
 cd aiej-api
 
 2️⃣ Configuración de la Base de Datos
