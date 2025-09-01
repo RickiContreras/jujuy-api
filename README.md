@@ -38,7 +38,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 ### 1️⃣ Clonar el Repositorio
 
 ``` bash
-git clone https://github.com/tuusuario/aiej-api.git
+git clone https://github.com/RickiContreras/jujuy-api.git
 cd aiej-api
 ```
 
